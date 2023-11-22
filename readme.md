@@ -9,6 +9,8 @@ Dataset was downloaded from Kaggle. Due to size constraints, it was not uploaded
 
 The dataset was saved in my google drive and was then unzipped directly on to colab notebook.
 
+The dataset was saved in my google drive and was then unzipped directly on to colab notebook 'termwork1.ipynb'.
+
 Dataset - https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
 Most of the code is self-explanatory.
