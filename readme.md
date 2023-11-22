@@ -1,5 +1,5 @@
-**Chest X-ray based image classification
-**
+*Chest X-ray based image classification
+
 
 This project was performed as part of Pattern Recognition and Algorithms coursework. 
 
